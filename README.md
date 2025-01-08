@@ -1,7 +1,9 @@
+![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
+
+
 # 💫 About Me:
 👋 Hi, I'm Ravi Vira, a passionate IT engineering student driven by a love for technology and innovation.<br><br>💻 I’m currently exploring the intersection of software development, web technologies, and emerging trends in tech.<br>✨ My areas of interest include:<br><br>🌐 Full-Stack Web Development<br>📱 Mobile App Development<br>🧠 AI & Machine Learning<br><br>🎯 On GitHub, you'll find my projects, collaborations, and experiments. I'm always eager to learn, contribute, and grow with the amazing developer community.<br><br>📫 Let’s Connect:
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br/>
 ## 🌐 Socials:
 
@@ -69,6 +71,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ravi-vira&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ravi-vira&icon=4&color=5)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Ravi-vira&color=green)
 
 
