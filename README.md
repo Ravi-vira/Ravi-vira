@@ -3,8 +3,9 @@
 
 # 💫 About Me:
 👋 Hi, I'm Ravi Vira, a passionate IT engineering student driven by a love for technology and innovation.<br><br>💻 I’m currently exploring the intersection of software development, web technologies, and emerging trends in tech.<br>✨ My areas of interest include:<br><br>🌐 Full-Stack Web Development<br>📱 Mobile App Development<br>🧠 AI & Machine Learning<br><br>🎯 On GitHub, you'll find my projects, collaborations, and experiments. I'm always eager to learn, contribute, and grow with the amazing developer community.<br><br>📫 Let’s Connect:
-
 <br/>
+### 📊 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ravi_369?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/Ravi_369)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-vira-32826b321)
