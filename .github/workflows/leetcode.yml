@@ -1,0 +1,28 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Update LeetCode Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: Ravi_369
+          theme: dark
+          card_width: 500
+      
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'Om Patel'
+          git config --global user.email 'youremail@example.com'
+          git add README.md
+          git commit -m "Automated update of LeetCode stats"
+          git push
